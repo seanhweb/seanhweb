@@ -6,4 +6,4 @@ I have always had a strong interest in computers and technology growing up, and 
 
 I assisted the Technology Department by creating web-based tools that simplify bar code and asset tag creation for equipment checkout and check in, and served the campus by operating a technology service window where students could print their projects and check out equipment relevant to their major. I also assisted IT department during campus off-hours in computer maintenance.
 
-After that, I landed an internship at KVCR/FNX in San Bernardino. They loved me enough to keep me, and since then I’ve been responsible for upkeep, maintenance and theme creation / functionality on WordPress Installations, and am in charge of several servers including a Wowza server that serves our audience with 24/7 live access to our content. Occasionally, I service broadcast equipment and perform IT services.
+After that, I landed an internship at KVCR Public Media in San Bernardino. I work on several of their websites and web based tools to make life easier. 
